@@ -1,6 +1,6 @@
 # Hi, I'm Harsh 👋
 
-Final-year B.E. Computer Science student at UIET, Panjab University (graduating May 2027). I build secure, ML-powered software and care about privacy-first AI.
+
 
 ## 💫 About Me
 
